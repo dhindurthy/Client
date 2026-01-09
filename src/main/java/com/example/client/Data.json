@@ -1,0 +1,11 @@
+[{
+  "Id": "rgsc-a2sl-sg8v-sf91",
+  "data": {
+    "created": "2024-02-28T05:00:00:000+00:00",
+    "teaser_img_src": "https://place-hold.it/300x300/666/fff/000.gif",
+    "teaser_desc": "This is a summary of the article",
+    "img_src": "https://place-hold.it/600x600/666/fff/000.gif",
+    "title": "This is the article title",
+    "desc": "This is a full article that will be used to render the article. It might contain longer text that wraps several lines"
+  }
+}]
