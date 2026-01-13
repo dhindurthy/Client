@@ -73,6 +73,7 @@
 
 	<build>
 		<plugins>
+<!--			Comment out this originally for initial compile and then re-add it when needed-->
 <!--			<plugin>-->
 <!--				<groupId>org.apache.maven.plugins</groupId>-->
 <!--				<artifactId>maven-compiler-plugin</artifactId>-->
