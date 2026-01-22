@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.*;
+import java.util.List;
 
 @RestController
 @RequestMapping("/clients")
@@ -15,7 +15,7 @@ public class ClientsController {
 
     private final ClientRepository clientRepository;
 
-    public ClientsController(ClientRepository clientRepository) {
+    public ClientsController(ClientRepository clientRepository) {//dependency injection;CoMeFS
         this.clientRepository = clientRepository;
     }
 
